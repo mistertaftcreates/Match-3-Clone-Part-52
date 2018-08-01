@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dark Green Dot
+  - Green Dot
+  - Indigo Dot
+  - Orange Dot
+  - Red Dot
+  - Salmon Dot
+  - Teal Dot
+  - Yellow Dot
+  - Puice Dot
+  - Color
+  - Breakable
+  - Board
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4115338983
+    locked: 0
+  - name: Particles
+    uniqueID: 1701559851
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Markers
+    uniqueID: 3020687143
+    locked: 0
