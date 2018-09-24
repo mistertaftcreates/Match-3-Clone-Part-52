@@ -10,7 +10,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>
     </RootNamespace>
-    <ProjectGuid>{325B507C-967A-FD8C-1F0C-D8FE0FC685D1}</ProjectGuid>
+    <ProjectGuid>{01DCF3E1-6A74-7F5B-F7ED-841E919A2B3A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -82,11 +82,12 @@
     <Compile Include="Assets\Scripts\UI\BackToSplash.cs" />
     <Compile Include="Assets\Scripts\UI\ConfirmPanel.cs" />
     <Compile Include="Assets\Scripts\UI\LevelButton.cs" />
+    <Compile Include="Assets\Scripts\UI\PauseManager.cs" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>/Users/yoda/Desktop/Match 3 Clone/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>/Users/yoda/Documents/GitHub/Match 3 Clone/Match 3 Clone Part 52/Part 53/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>/Users/yoda/Desktop/Match 3 Clone/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>/Users/yoda/Documents/GitHub/Match 3 Clone/Match 3 Clone Part 52/Part 53/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

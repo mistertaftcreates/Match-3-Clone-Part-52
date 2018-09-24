@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{01DCF3E1-6A74-7F5B-F7ED-841E919A2B3A}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Base Game Scripts/SoundManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Base Game Scripts/Board.cs" Line="691" Column="34" />
+      <File FileName="Assets/Scripts/UI/PauseManager.cs" Line="68" Column="44" />
+      <File FileName="../../../../../Desktop/Match 3 Clone/Assets/Scripts/UI/PauseManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Base Game Scripts/SoundManager.cs" Line="24" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
