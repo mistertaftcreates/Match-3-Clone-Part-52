@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{325B507C-967A-FD8C-1F0C-D8FE0FC685D1}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UI/LevelSelectManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Base Game Scripts/Board.cs" Line="96" Column="28" />
+      <File FileName="Assets/Scripts/Game Data Scripts/GameData.cs" Line="81" Column="37" />
+      <File FileName="Assets/Scripts/Base Game Scripts/Dot.cs" Line="238" Column="10" />
+      <File FileName="Assets/Scripts/Base Game Scripts/FindMatches.cs" Line="74" Column="10" />
+      <File FileName="Assets/Scripts/UI/PauseManager.cs" Line="59" Column="34" />
+      <File FileName="Assets/Scripts/Base Game Scripts/SoundManager.cs" Line="26" Column="40" />
+      <File FileName="Assets/Scripts/UI/GameStartManager.cs" Line="25" Column="26" />
+      <File FileName="Assets/Scripts/Base Game Scripts/EndGameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Base Game Scripts/ScoreManager.cs" Line="54" Column="68" />
+      <File FileName="Assets/Scripts/UI/LevelSelectManager.cs" Line="56" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Match_2203_220Clone PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.com.unity.package-manager-ui.Editor PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
